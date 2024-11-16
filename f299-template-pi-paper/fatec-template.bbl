@@ -1,0 +1,651 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{MAPA:11}{incollection}{}
+      \name{editor}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c3b0e9cea3bad69c556ce8b6e5b2d1c}{%
+           family={39.788},
+           familyi={3\bibinitperiod},
+           given={Carla\bibnamedelimb Rossini\bibnamedelimb -\bibnamedelima MTb},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Editora Expressão.}%
+      }
+      \strng{namehash}{6c3b0e9cea3bad69c556ce8b6e5b2d1c}
+      \strng{fullhash}{6c3b0e9cea3bad69c556ce8b6e5b2d1c}
+      \strng{bibnamehash}{6c3b0e9cea3bad69c556ce8b6e5b2d1c}
+      \strng{editorbibnamehash}{6c3b0e9cea3bad69c556ce8b6e5b2d1c}
+      \strng{editornamehash}{6c3b0e9cea3bad69c556ce8b6e5b2d1c}
+      \strng{editorfullhash}{6c3b0e9cea3bad69c556ce8b6e5b2d1c}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Revista Canavieiros}
+      \field{title}{Mudanças Climáticas e os Desafios no Campo}
+      \field{year}{2024}
+      \field{pages}{86\bibrangedash 93}
+      \range{pages}{8}
+      \verb{urlraw}
+      \verb https://www.revistacanavieiros.com.br/uploads/pagina/tag/2024/02/rH6rbytqp5KlTK50/canavieiros-ed207-jan-compactado.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.revistacanavieiros.com.br/uploads/pagina/tag/2024/02/rH6rbytqp5KlTK50/canavieiros-ed207-jan-compactado.pdf
+      \endverb
+    \endentry
+    \entry{Cassava1999}{incollection}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=88f0b5b0c4c94cb67b3747e9dfc8e85d}{%
+           family={Chaves},
+           familyi={C\bibinitperiod},
+           given={Carlos\bibnamedelimb A.\bibnamedelimi Zárate},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17f36c45d5e5b3f81fd9311ef35a3b59}{%
+           family={Cruz},
+           familyi={C\bibinitperiod},
+           given={Diana\bibnamedelima Gómez},
+           giveni={D\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05494b371485d9052b1ff6ad5d5ae3ed}{%
+           family={Verdier},
+           familyi={V\bibinitperiod},
+           given={Valérie},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f605ddda7d4f6acce33d07048100f868}{%
+           family={López},
+           familyi={L\bibinitperiod},
+           given={Camilo\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8c3ec7d601a7fa0a8ece732b87c642d}{%
+           family={Bernal},
+           familyi={B\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5534f30d1beb361aad26b6de0380e9b8}{%
+           family={Szurek},
+           familyi={S\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{82efa834c28603770951fe17097680ca}
+      \strng{fullhash}{ed541f045d5972afe34f86ef29e5aae0}
+      \strng{bibnamehash}{82efa834c28603770951fe17097680ca}
+      \strng{authorbibnamehash}{82efa834c28603770951fe17097680ca}
+      \strng{authornamehash}{82efa834c28603770951fe17097680ca}
+      \strng{authorfullhash}{ed541f045d5972afe34f86ef29e5aae0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cassava diseases caused by Xanthomonas phaseoli pv. manihotis and Xanthomonas cassavae}
+      \field{year}{2021}
+      \field{pages}{1520\bibrangedash 1537}
+      \range{pages}{18}
+      \verb{urlraw}
+      \verb https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/555046/1/gtec32.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/555046/1/gtec32.pdf
+      \endverb
+    \endentry
+    \entry{FURLANETO}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=00d9729a5a2aeba490c8bd684accceb2}{%
+           family={Fernanda\bibnamedelima Paiva},
+           familyi={F\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Maura\bibnamedelima Seiko},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0,
+           suffix={Ricardo\bibnamedelima Augusto},
+           suffixi={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{location}{1}{%
+        {São Paulo, SP}%
+      }
+      \strng{namehash}{00d9729a5a2aeba490c8bd684accceb2}
+      \strng{fullhash}{00d9729a5a2aeba490c8bd684accceb2}
+      \strng{bibnamehash}{00d9729a5a2aeba490c8bd684accceb2}
+      \strng{authorbibnamehash}{00d9729a5a2aeba490c8bd684accceb2}
+      \strng{authornamehash}{00d9729a5a2aeba490c8bd684accceb2}
+      \strng{authorfullhash}{00d9729a5a2aeba490c8bd684accceb2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{pagetotal}{1-12}
+      \field{title}{Análise econômica da cultura da mandioca no Médio Paranapanema}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb https://www.agricultura.sp.gov.br/documents/1007647/0/01.%20ANÁLISE%20ECONÔMICA%20DA%20CULTURA%20DE%20MANDIOCA%20NO%20MÉDIO%20PARANAPANEMA,%20ESTADO%20DE%20SÃO%20PAULO.pdf/3bd8f84e-dcf6-c813-aa00-9be649296220#:~:text=O%20estudo%20econômico%20dos%20sistemas,mandioca%20produzida%20com%201%20ciclo.
+      \endverb
+      \verb{url}
+      \verb https://www.agricultura.sp.gov.br/documents/1007647/0/01.%20AN%C3%81LISE%20ECON%C3%94MICA%20DA%20CULTURA%20DE%20MANDIOCA%20NO%20M%C3%89DIO%20PARANAPANEMA,%20ESTADO%20DE%20S%C3%83O%20PAULO.pdf/3bd8f84e-dcf6-c813-aa00-9be649296220#:~:text=O%20estudo%20econ%C3%B4mico%20dos%20sistemas,mandioca%20produzida%20com%201%20ciclo.
+      \endverb
+    \endentry
+    \entry{Klebsiella}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f37692f3fcecbc00eaf6cbbfe38b052f}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Solange\bibnamedelimb da\bibnamedelima Cunha},
+           giveni={S\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e49f9560061c4896374b43819c8890d}{%
+           family={Nakasone},
+           familyi={N\bibinitperiod},
+           given={Alessandra\bibnamedelima Keiko},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c42c7aecb58542e7a3a3cdf4de435c9}{%
+           family={Cunha},
+           familyi={C\bibinitperiod},
+           given={Elisa\bibnamedelimb Ferreira\bibnamedelima Moura},
+           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=32df67b769d8faa2ddb323f2200b67db}{%
+           family={Serrão},
+           familyi={S\bibinitperiod},
+           given={Cleyson\bibnamedelima Pantoja},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29b6152958ea265c2cd70b2d8685e274}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Cláudia\bibnamedelimb Regina\bibnamedelima Batista},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidade Federal de São Carlos (UFSCar)}%
+      }
+      \strng{namehash}{822e3db43ea75e5c4393ca3ad5b4fce4}
+      \strng{fullhash}{27267006cb9ef78511458d4e213184b8}
+      \strng{bibnamehash}{822e3db43ea75e5c4393ca3ad5b4fce4}
+      \strng{authorbibnamehash}{822e3db43ea75e5c4393ca3ad5b4fce4}
+      \strng{authornamehash}{822e3db43ea75e5c4393ca3ad5b4fce4}
+      \strng{authorfullhash}{27267006cb9ef78511458d4e213184b8}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0104-530X}
+      \field{journaltitle}{Scielo}
+      \field{month}{12}
+      \field{number}{3}
+      \field{title}{Sistemática proposta para seleção de fornecedores em gestão de projetos}
+      \field{volume}{14}
+      \field{year}{2007}
+      \field{pages}{477\bibrangedash 487}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1590/s0104-530x2007000300005
+      \endverb
+    \endentry
+    \entry{Germoplasma}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c5eac8f2b42c13c12d23d7782c841e4a}{%
+           family={Flavia\bibnamedelimb Andrea\bibnamedelima Nery-Silva},
+           familyi={F\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim N\bibinithyphendelim S\bibinitperiod},
+           given={Fernando\bibnamedelimb César\bibnamedelima Juliatti},
+           giveni={F\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0,
+           suffix={;\bibnamedelima Jonas\bibnamedelimb Jäger\bibnamedelima Fernandes},
+           suffixi={;\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           suffixun=0}}%
+        {{un=0,uniquepart=base,hash=3a299bab45ef437be404d1d62149438a}{%
+           family={Melo},
+           familyi={M\bibinitperiod},
+           given={Benjamim},
+           giveni={B\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{0dca9f068aaf342f19933179ce7f3285}
+      \strng{fullhash}{0dca9f068aaf342f19933179ce7f3285}
+      \strng{bibnamehash}{0dca9f068aaf342f19933179ce7f3285}
+      \strng{authorbibnamehash}{0dca9f068aaf342f19933179ce7f3285}
+      \strng{authornamehash}{0dca9f068aaf342f19933179ce7f3285}
+      \strng{authorfullhash}{0dca9f068aaf342f19933179ce7f3285}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Semina: Ciências Agrárias}
+      \field{note}{Acesso em: 5 dez. 2023}
+      \field{title}{Reação de germoplasma de mandioca a Xanthomonas axonopodis pv. manihots}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{volume}{v.28}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb https://ojs.uel.br/revistas/uel/index.php/semagrarias/article/download/2542/2178/8359
+      \endverb
+      \verb{url}
+      \verb https://ojs.uel.br/revistas/uel/index.php/semagrarias/article/download/2542/2178/8359
+      \endverb
+    \endentry
+    \entry{CONAB}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3c1d7731ce3b89b085adf06240f171ec}{%
+           family={Flávia\bibnamedelima Machado},
+           familyi={F\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Débora\bibnamedelima Cristina},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade Federal de Santa Catarina}%
+      }
+      \list{location}{1}{%
+        {Florianópolis, SC}%
+      }
+      \strng{namehash}{3c1d7731ce3b89b085adf06240f171ec}
+      \strng{fullhash}{3c1d7731ce3b89b085adf06240f171ec}
+      \strng{bibnamehash}{3c1d7731ce3b89b085adf06240f171ec}
+      \strng{authorbibnamehash}{3c1d7731ce3b89b085adf06240f171ec}
+      \strng{authornamehash}{3c1d7731ce3b89b085adf06240f171ec}
+      \strng{authorfullhash}{3c1d7731ce3b89b085adf06240f171ec}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{sheet}
+      \field{pagetotal}{1-12}
+      \field{title}{Análise econômica da cultura da mandioca no Médio Paranapanema}
+      \field{type}{Tese (Doutorado em Engenharia de Produção)}
+      \field{urlday}{5}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.conab.gov.br/info-agro/analises-do-mercado-agropecuario-e-extrativista/analises-do-mercado/historico-mensal-de-mandioca/item/download/15104_87ab84e372faa534fa097d39adcb71c5
+      \endverb
+      \verb{url}
+      \verb https://www.conab.gov.br/info-agro/analises-do-mercado-agropecuario-e-extrativista/analises-do-mercado/historico-mensal-de-mandioca/item/download/15104_87ab84e372faa534fa097d39adcb71c5
+      \endverb
+    \endentry
+    \entry{EfficientNet}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=0be48a9daf13fde579d9d51375cfee5b}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08e6eb92b37aafe7616573da7679d846}{%
+           family={Sa},
+           familyi={S\bibinitperiod},
+           given={Jiming},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18618126757ce68efad3e3336d4215ab}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhuoer},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2776862274bf348c5651bb04b926010}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Zhongyu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c7ee62f091bcfa32dadb99e7477b472}
+      \strng{fullhash}{5d183c3cdac67c81ea6250ebab8366a5}
+      \strng{bibnamehash}{5c7ee62f091bcfa32dadb99e7477b472}
+      \strng{authorbibnamehash}{5c7ee62f091bcfa32dadb99e7477b472}
+      \strng{authornamehash}{5c7ee62f091bcfa32dadb99e7477b472}
+      \strng{authorfullhash}{5d183c3cdac67c81ea6250ebab8366a5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 7th International Conference on Systems and Informatics (ICSAI)}
+      \field{title}{Cassava Disease Detection Method Based on EfficientNet}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICSAI53574.2021.9664101
+      \endverb
+      \keyw{Image resolution;Sensitivity;Image color analysis;Transportation;Production;Predictive models;Feature extraction;Cassava disease;HSV color space;EfficientNet network;Deep learning}
+    \endentry
+    \entry{Embrapa}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0be071f1d929b88825380bdef2ad3409}{%
+           family={Josefino\bibnamedelimb de\bibnamedelimb Freitas\bibnamedelima Fialho},
+           familyi={J\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={Ailton\bibnamedelimb Vitor\bibnamedelima Pereira},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MAPA.}%
+      }
+      \strng{namehash}{0be071f1d929b88825380bdef2ad3409}
+      \strng{fullhash}{0be071f1d929b88825380bdef2ad3409}
+      \strng{bibnamehash}{0be071f1d929b88825380bdef2ad3409}
+      \strng{authorbibnamehash}{0be071f1d929b88825380bdef2ad3409}
+      \strng{authornamehash}{0be071f1d929b88825380bdef2ad3409}
+      \strng{authorfullhash}{0be071f1d929b88825380bdef2ad3409}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Guia Técnico do Produtor Rural}
+      \field{title}{importância do Controle da Bacteriose na Cultura da Mandioca}
+      \field{year}{1999}
+      \field{pages}{1\bibrangedash 2}
+      \range{pages}{2}
+      \verb{urlraw}
+      \verb https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/555046/1/gtec32.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/555046/1/gtec32.pdf
+      \endverb
+    \endentry
+    \entry{MANSFIELD}{incollection}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=f3baab5390acb072e256d06254fb506d}{%
+           family={Mansfield},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77e874b0f9fa0ca55fd8cb4dbe2da497}{%
+           family={Genin},
+           familyi={G\bibinitperiod},
+           given={Stephane},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69be63ec748f6abf7f8e0609e94b3315}{%
+           family={Magori},
+           familyi={M\bibinitperiod},
+           given={Shimpei},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a824c6b9c31e2a2d8fcb010168450654}{%
+           family={Citovsky},
+           familyi={C\bibinitperiod},
+           given={Vitaly},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4ca475b3416b02c843874f8c0b47af78}{%
+           family={Sriariyanun},
+           familyi={S\bibinitperiod},
+           given={Malinee},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2f86ec530b59467be41d9dc40d256c9}{%
+           family={Ronald},
+           familyi={R\bibinitperiod},
+           given={Pamela},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60af7f2fa17b4114d9c963a08bfed18d}{%
+           family={Dow},
+           familyi={D\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05494b371485d9052b1ff6ad5d5ae3ed}{%
+           family={Verdier},
+           familyi={V\bibinitperiod},
+           given={Valérie},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ee6cd1caa738b439cd5ff6611ea34cf}{%
+           family={Beer},
+           familyi={B\bibinitperiod},
+           given={Steven\bibnamedelima V.},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eaf96628dd905e67273c11e82393c5b2}{%
+           family={Machado},
+           familyi={M\bibinitperiod},
+           given={Marcos\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=921496258bfb5b2fe08c68996c868111}{%
+           family={Toth},
+           familyi={T\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c59344495ffa1a17728a387a2d44e8d}{%
+           family={Salmond},
+           familyi={S\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0388af2067b1b2d2f2807407ae8d9881}{%
+           family={Foster},
+           familyi={F\bibinitperiod},
+           given={Gary\bibnamedelima D.},
+           giveni={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Blackwell Publishing Ltd.}%
+      }
+      \strng{namehash}{42ffb0e8126cf55d0ce3164c96f30f86}
+      \strng{fullhash}{45e76cd84210db0a844d183456b0c966}
+      \strng{bibnamehash}{42ffb0e8126cf55d0ce3164c96f30f86}
+      \strng{authorbibnamehash}{42ffb0e8126cf55d0ce3164c96f30f86}
+      \strng{authornamehash}{42ffb0e8126cf55d0ce3164c96f30f86}
+      \strng{authorfullhash}{45e76cd84210db0a844d183456b0c966}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Top 10 plant pathogenic bacteria in molecular plant pathology}
+      \field{year}{2012}
+      \field{pages}{614\bibrangedash 629}
+      \range{pages}{16}
+      \verb{urlraw}
+      \verb https://bsppjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1364-3703.2012.00804.x
+      \endverb
+      \verb{url}
+      \verb https://bsppjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1364-3703.2012.00804.x
+      \endverb
+    \endentry
+    \entry{Prado}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=024de47c558533d36ec63a510c6d6c41}{%
+           family={Prado},
+           familyi={P\bibinitperiod},
+           given={Vânia\bibnamedelimb Luísa\bibnamedelima Spressola},
+           giveni={V\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade de São Paulo}%
+      }
+      \list{location}{1}{%
+        {São Paulo, SP}%
+      }
+      \strng{namehash}{024de47c558533d36ec63a510c6d6c41}
+      \strng{fullhash}{024de47c558533d36ec63a510c6d6c41}
+      \strng{bibnamehash}{024de47c558533d36ec63a510c6d6c41}
+      \strng{authorbibnamehash}{024de47c558533d36ec63a510c6d6c41}
+      \strng{authornamehash}{024de47c558533d36ec63a510c6d6c41}
+      \strng{authorfullhash}{024de47c558533d36ec63a510c6d6c41}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{bookpagination}{sheet}
+      \field{eventmonth}{5}
+      \field{eventyear}{2006}
+      \field{pagetotal}{124}
+      \field{title}{Modelo de qualidade de vida dentro dos domínios bio-psico-social para aposentados}
+      \field{type}{Tese (Mestrado em Biociências - USP)}
+      \field{urlday}{7}
+      \field{urlmonth}{4}
+      \field{urlyear}{2011}
+      \field{year}{2011}
+      \field{eventdateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://teses.usp.br/teses/disponiveis/41/41134/tde-06062011-073004/pt-br.php#:~:text=Os%20quilombolas%20do%20Ribeira%20estão,hotspots%20de%20biodiversidade%20do%20mundo.
+      \endverb
+      \verb{url}
+      \verb https://teses.usp.br/teses/disponiveis/41/41134/tde-06062011-073004/pt-br.php#:~:text=Os%20quilombolas%20do%20Ribeira%20est%C3%A3o,hotspots%20de%20biodiversidade%20do%20mundo.
+      \endverb
+    \endentry
+    \entry{Leaf}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4be1f3247d6d9094391424a77fbf7393}{%
+           family={Saini},
+           familyi={S\bibinitperiod},
+           given={Archana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce1c7dc467cbb7ec6990a0d637ef98e0}{%
+           family={Guleria},
+           familyi={G\bibinitperiod},
+           given={Kalpna},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76c6d2edc0b3f0a9b8393a85b77c53c9}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Shagun},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{96a09040b2b28c789268d92b5288f5b0}
+      \strng{fullhash}{96a09040b2b28c789268d92b5288f5b0}
+      \strng{bibnamehash}{96a09040b2b28c789268d92b5288f5b0}
+      \strng{authorbibnamehash}{96a09040b2b28c789268d92b5288f5b0}
+      \strng{authornamehash}{96a09040b2b28c789268d92b5288f5b0}
+      \strng{authorfullhash}{96a09040b2b28c789268d92b5288f5b0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2023 International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)}
+      \field{title}{Cassava Leaf Disease Classification Using Pre-Trained EfficientN Et Model}
+      \field{year}{2023}
+      \field{pages}{675\bibrangedash 680}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/ICSSAS57918.2023.10331697
+      \endverb
+      \keyw{Plant diseases;Sociology;Crops;Process control;Production;Learning (artificial intelligence);Safety;Cassava;EfficientN et;diseases;classification;image processing;deep learning}
+    \endentry
+    \entry{CPA2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c850416eebf713111415b6e8302d5b91}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Douglas\bibnamedelima Paulo},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0,
+           prefix={dos},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=df49e8a69aaa5ec9dc5999ca9359e6bc}{%
+           family={Silveira},
+           familyi={S\bibinitperiod},
+           given={Bruno},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=04162c36f00907856dfd74b2fca02815}{%
+           family={Barbosa},
+           familyi={B\bibinitperiod},
+           given={Karoline\bibnamedelima Noronha},
+           giveni={K\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {UNIVERSIDADE EVANGÉLICA DE GOIÁS – (UNIEVANGÉLICA)}%
+      }
+      \strng{namehash}{1584bfaf851187485fbdc2bf322e8a33}
+      \strng{fullhash}{1584bfaf851187485fbdc2bf322e8a33}
+      \strng{bibnamehash}{1584bfaf851187485fbdc2bf322e8a33}
+      \strng{authorbibnamehash}{1584bfaf851187485fbdc2bf322e8a33}
+      \strng{authornamehash}{1584bfaf851187485fbdc2bf322e8a33}
+      \strng{authorfullhash}{1584bfaf851187485fbdc2bf322e8a33}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Repositório Instituicional AEE}
+      \field{month}{12}
+      \field{title}{Utilização de IA para Controle de Pragas na Agricultura}
+      \field{year}{2022}
+      \field{pages}{1\bibrangedash 41}
+      \range{pages}{41}
+      \verb{urlraw}
+      \verb http://repositorio.aee.edu.br/jspui/handle/aee/20825
+      \endverb
+      \verb{url}
+      \verb http://repositorio.aee.edu.br/jspui/handle/aee/20825
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

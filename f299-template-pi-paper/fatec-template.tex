@@ -1,0 +1,87 @@
+%%%% fatec-article.tex, 2024/03/10
+
+%% Classe de documento
+\documentclass[
+  a4paper,%% Tamanho de papel: a4paper, letterpaper (^), etc.
+  12pt,%% Tamanho de fonte: 10pt (^), 11pt, 12pt, etc.
+  english,%% Idioma secundário (penúltimo) (>)
+  brazilian,%% Idioma primário (último) (>)
+]{article}
+
+%% Pacotes utilizados
+\usepackage[]{fatec-article}
+\usepackage{float}
+\Author{1}{Name={Estevam R.\\Frazão L.\\Lucca de B.\\ Flávia A. \\Lima L.}}
+
+\Author{2}{Name={\{ ricardo.conceicao@fatec.sp.gov.br \}\\ \{ Lucas.guimaraes11@fatec.sp.gov.br\} \\ \{ Bruno.miranda19@fatec.sp.gov.br\} \\ \{ ana.goncalves60@fatec.sp.gov.br \}  \\ \{ Leonardo.lima83@fatec.sp.gov.br\}}}
+
+%% Definição das palavras-chaves/keywords
+\Keyword{1}{Artigo}{Article}
+\Keyword{2}{Latex}{Latex}
+\Keyword{3}{Informática}{Informatic}
+
+%%%% Resumo no idioma primário (brazilian)
+\begin{Abstract}[brazilian]%% Idioma (brazilian ou english)
+  O Projeto Classificação de Bacteriose nas Folhas da Mandioca, Orientado por Aprendizagem Profunda tem como objetivo desenvolver um aplicativo de inteligência artificial (IA) para detectar as probabilidades da infecção por Xanthomonas phaseoli pv. manihotis (Xpm) em folhas de mandioca. Utilizando técnicas de deep learning, o aplicativo permitirá que os usuários capturem imagens das plantas ou enviem imagens armazenadas em seus dispositivos, com intuito de serem analisadas de forma eficaz pela IA do aplicativo, onde será exibido o grau de infecção da planta, fornecendo informações precisas e com agilidade. Além disso, o projeto busca criar um sistema de mapeamento que ajudará na identificação de áreas mais vulneráveis, possibilitando intervenções direcionadas e a melhoria das práticas agrícolas.
+A implementação deste aplicativo visa não apenas facilitar o monitoramento da saúde das plantações, mas também dar informações aos agricultores com dados que podem ser utilizados para tomar decisões, a fim de ser orientado por um profissional futuramente. A capacidade de detectar infecções de maneira rápida e eficiente é crucial para a diminuição dos danos causados pela bacteriose, promovendo a sustentabilidade da produção de mandioca e contribuindo para a segurança alimentar nas comunidades afetadas.
+
+\end{Abstract}
+
+%%%% Resumo no idioma secundário (english)
+\begin{Abstract}[english]%% Idioma (brazilian ou english)
+  The Project Classification of Bacteriosis in Cassava Leaves, Guided by Deep Learning aims to develop an artificial intelligence (AI) application to detect the probabilities of infection by Xanthomonas phaseoli pv. manihotis (Xpm) in cassava leaves. Using deep learning techniques, the application will allow users to capture images of plants or send images stored on their devices, in order to be analyzed effectively by the application's AI, where the degree of infection of the plant will be displayed, providing accurate information and with agility. Furthermore, the project seeks to create a mapping system that will help identify the most vulnerable areas, enabling targeted interventions and the improvement of agricultural practices.
+  The implementation of this application aims to not only facilitate monitoring the health of crops, but also provide information to farmers with data that can be used to make decisions, in order to be guided by a professional in the future. The ability to detect infections quickly and efficiently is crucial to reducing the damage caused by bacteriosis, promoting the sustainability of cassava production and contributing to food security in affected communities.
+\end{Abstract}
+
+%% Processamento de entradas (itens) do índice remissivo (makeindex)
+\makeindex%
+
+%% Arquivo(s) de referências
+\addbibresource{fatec-article.bib}
+
+%% Início do documento
+\begin{document}
+
+% Seções e subseções
+%\section{Título de Seção Primária}%
+
+%\subsection{Título de Seção Secundária}%
+
+%\subsubsection{Título de Seção Terciária}%
+
+%\paragraph{Título de seção quaternária}%
+
+%\subparagraph{Título de seção quinária}%
+
+\section*{Introdução}%
+\label{sect:intro}
+\input{Topicos/introducao}
+
+\section*{OBJETIVO} \label{sect:obj}
+
+\input{Topicos/objetivo}
+
+\section*{ESTADO DA ARTE} \label{sect:estadoarte}
+
+\input{Topicos/estadodaarte}
+
+\section*{METODOLOGIA} \label{sect:metodologia}
+
+\input{Topicos/metodologia}
+
+\section*{RESULTADOS PRELIMINARES}\label{sect:resultados}
+
+\input{Topicos/resultados}
+
+\section*{CONCLUSÃO}\label{sect:conclusao}
+
+\input{Topicos/conclusao}
+
+\printbibliography
+
+%% Elementos pós-textuais (opcionais): Apêndice e Anexo
+%Caso for utilizar, basta retirar o símbolo de % na frente do comando
+%\input{./Extras/post-textual}
+
+%% Fim do documento
+\end{document}
