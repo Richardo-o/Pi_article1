@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.27)  17 NOV 2024 19:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.27)  17 NOV 2024 20:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1266,54 +1266,54 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 <Logos/Caso_uso_solo - Copia.jpg, id=49, 1105.12875pt x 713.66624pt>
 File: Logos/Caso_uso_solo - Copia.jpg Graphic file (type jpg)
 <use Logos/Caso_uso_solo - Copia.jpg>
-Package pdftex.def Info: Logos/Caso_uso_solo - Copia.jpg  used on input line 51.
+Package pdftex.def Info: Logos/Caso_uso_solo - Copia.jpg  used on input line 50.
 (pdftex.def)             Requested size: 532.0695pt x 343.59041pt.
 
-Overfull \hbox (48.37263pt too wide) in paragraph at lines 51--52
+Overfull \hbox (48.37263pt too wide) in paragraph at lines 50--51
  [][] 
  []
 
 [3 <./Logos/Caso_uso_solo - Copia.jpg>]
-<Logos/Diagrama_redes.jpg, id=56, 684.5575pt x 1176.395pt>
+<Logos/Diagrama_redes.jpg, id=55, 684.5575pt x 1176.395pt>
 File: Logos/Diagrama_redes.jpg Graphic file (type jpg)
 <use Logos/Diagrama_redes.jpg>
-Package pdftex.def Info: Logos/Diagrama_redes.jpg  used on input line 70.
+Package pdftex.def Info: Logos/Diagrama_redes.jpg  used on input line 69.
 (pdftex.def)             Requested size: 241.84843pt x 415.60374pt.
  [4 <./Logos/Diagrama_redes.jpg>]
-<Logos/Canva.jpg, id=62, 1242.6425pt x 1131.22626pt>
+<Logos/Canva.jpg, id=61, 1242.6425pt x 1131.22626pt>
 File: Logos/Canva.jpg Graphic file (type jpg)
 <use Logos/Canva.jpg>
-Package pdftex.def Info: Logos/Canva.jpg  used on input line 87.
+Package pdftex.def Info: Logos/Canva.jpg  used on input line 86.
 (pdftex.def)             Requested size: 532.0695pt x 484.36374pt.
 
-Overfull \hbox (48.37263pt too wide) in paragraph at lines 87--88
+Overfull \hbox (48.37263pt too wide) in paragraph at lines 86--87
  [][] 
  []
 
 [5 <./Logos/Canva.jpg>]
-<Logos/BDC.jpeg, id=68, 581.17125pt x 608.2725pt>
+<Logos/BDC.jpeg, id=67, 581.17125pt x 608.2725pt>
 File: Logos/BDC.jpeg Graphic file (type jpg)
 <use Logos/BDC.jpeg>
-Package pdftex.def Info: Logos/BDC.jpeg  used on input line 104.
+Package pdftex.def Info: Logos/BDC.jpeg  used on input line 103.
 (pdftex.def)             Requested size: 290.22107pt x 303.75496pt.
  [6 <./Logos/BDC.jpeg>]
-<Logos/mod_logic1.png, id=75, 644.4075pt x 388.45125pt>
+<Logos/mod_logic1.png, id=74, 644.4075pt x 388.45125pt>
 File: Logos/mod_logic1.png Graphic file (type png)
 <use Logos/mod_logic1.png>
-Package pdftex.def Info: Logos/mod_logic1.png  used on input line 118.
+Package pdftex.def Info: Logos/mod_logic1.png  used on input line 117.
 (pdftex.def)             Requested size: 532.0695pt x 320.74295pt.
 
-Overfull \hbox (48.37263pt too wide) in paragraph at lines 118--119
+Overfull \hbox (48.37263pt too wide) in paragraph at lines 117--118
  [][] 
  []
 
-<Logos/loog_book1.png, id=77, 899.61093pt x 390.70969pt>
+<Logos/loog_book1.png, id=76, 899.61093pt x 390.70969pt>
 File: Logos/loog_book1.png Graphic file (type png)
 <use Logos/loog_book1.png>
-Package pdftex.def Info: Logos/loog_book1.png  used on input line 134.
+Package pdftex.def Info: Logos/loog_book1.png  used on input line 133.
 (pdftex.def)             Requested size: 532.0695pt x 231.08904pt.
 
-Overfull \hbox (48.37263pt too wide) in paragraph at lines 134--135
+Overfull \hbox (48.37263pt too wide) in paragraph at lines 133--134
  [][] 
  []
 
@@ -1321,13 +1321,13 @@ Overfull \hbox (48.37263pt too wide) in paragraph at lines 134--135
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [7 <./Logos/mod_logic1.png>]
-<Logos/loog_book2.png, id=86, 755.07094pt x 121.20282pt>
+<Logos/loog_book2.png, id=85, 755.07094pt x 121.20282pt>
 File: Logos/loog_book2.png Graphic file (type png)
 <use Logos/loog_book2.png>
-Package pdftex.def Info: Logos/loog_book2.png  used on input line 144.
+Package pdftex.def Info: Logos/loog_book2.png  used on input line 143.
 (pdftex.def)             Requested size: 532.0695pt x 85.4073pt.
 
-Overfull \hbox (48.37263pt too wide) in paragraph at lines 144--145
+Overfull \hbox (48.37263pt too wide) in paragraph at lines 143--144
  [][] 
  []
 
@@ -1343,23 +1343,23 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `fatec-template.out' has not changed.
-(rerunfilecheck)             Checksum: 6588F6A1AABC6955C50E9FBEBC846E65;999.
+(rerunfilecheck)             Checksum: 3B0AD1184F286E578D265971508076FD;999.
 Package logreq Info: Writing requests to 'fatec-template.run.xml'.
 \openout1 = `fatec-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33454 strings out of 474485
- 608357 string characters out of 5738978
+ 33453 strings out of 474485
+ 608346 string characters out of 5738978
  1931542 words of memory out of 5000000
  55232 multiletter control sequences out of 15000+600000
  592867 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,12n,131p,1777b,4532s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on fatec-template.pdf (8 pages, 5277265 bytes).
+Output written on fatec-template.pdf (8 pages, 5276879 bytes).
 PDF statistics:
- 118 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
+ 117 PDF objects out of 1000 (max. 8388607)
+ 26 named destinations out of 1000 (max. 500000)
  15964 words of extra memory for PDF output out of 17280 (max. 10000000)
 
