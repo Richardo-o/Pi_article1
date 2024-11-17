@@ -1,6 +1,6 @@
-PWD c:\Users\ricardo estevam\Desktop\artigo_sem_hospedar\f299-template-pi-logbook
+PWD c:\Users\ricardo estevam\Documents\estudos\Pi_article1\f299-template-pi-logbook
 INPUT C:\Users\ricardo estevam\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\ricardo estevam\Desktop\artigo_sem_hospedar\f299-template-pi-logbook\fatec-template.tex
+INPUT c:\Users\ricardo estevam\Documents\estudos\Pi_article1\f299-template-pi-logbook\fatec-template.tex
 OUTPUT fatec-template.log
 INPUT C:\Users\ricardo estevam\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\ricardo estevam\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls

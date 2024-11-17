@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.27)  15 NOV 2024 15:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.9.27)  16 NOV 2024 16:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/ricardo estevam/Desktop/artigo_sem_hospedar/f299-template-pi-logbook/fatec-template.tex"
-(c:/Users/ricardo estevam/Desktop/artigo_sem_hospedar/f299-template-pi-logbook/fatec-template.tex
+**"c:/Users/ricardo estevam/Documents/estudos/Pi_article1/f299-template-pi-logbook/fatec-template.tex"
+(c:/Users/ricardo estevam/Documents/estudos/Pi_article1/f299-template-pi-logbook/fatec-template.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\ricardo estevam\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -1266,7 +1266,7 @@ LaTeX Warning: No positions in optional float specifier.
 <./Logos/fatec.jpg, id=7, 401.5pt x 401.5pt>
 File: ./Logos/fatec.jpg Graphic file (type jpg)
 <use ./Logos/fatec.jpg>
-Package pdftex.def Info: ./Logos/fatec.jpg  used on input line 88.
+Package pdftex.def Info: ./Logos/fatec.jpg  used on input line 89.
 (pdftex.def)             Requested size: 99.58444pt x 99.58464pt.
 [1{C:/Users/ricardo estevam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
 
@@ -1289,14 +1289,14 @@ Package logreq Info: Writing requests to 'fatec-template.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  33326 strings out of 474485
- 606409 string characters out of 5738978
+ 606431 string characters out of 5738978
  1956542 words of memory out of 5000000
  55137 multiletter control sequences out of 15000+600000
  591964 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,19n,131p,1286b,4466s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,19n,131p,1288b,4466s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on fatec-template.pdf (2 pages, 143070 bytes).
+Output written on fatec-template.pdf (2 pages, 143110 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
