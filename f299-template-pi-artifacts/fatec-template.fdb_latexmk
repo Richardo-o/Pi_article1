@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber fatec-template"] 1727412616.37277 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1727412691.23449 0
-  "fatec-template.bcf" 1727412690 112227 64486a44974414ece6e44eae6e500a1e "pdflatex"
+["biber fatec-template"] 1731877617.47809 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1731882355.39335 0
+  "fatec-template.bcf" 1731882354 112227 64486a44974414ece6e44eae6e500a1e "pdflatex"
   (generated)
   "fatec-template.bbl"
   "fatec-template.blg"
   (rewritten before read)
-["pdflatex"] 1727412686.11864 "c:/Users/ricardo estevam/Desktop/class-09-latex/f299-template-pi-artifacts/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1727412691.23574 0
-  "C:/Users/ricardo estevam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1727412613 122199 f0a029dcadf437d1491ad2875c164ac4 ""
+["pdflatex"] 1731882349.7645 "c:/Users/ricardo estevam/Documents/estudos/Pi_article1/f299-template-pi-artifacts/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1731882355.39459 0
+  "C:/Users/ricardo estevam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731680502 122199 f0a029dcadf437d1491ad2875c164ac4 ""
   "C:/Users/ricardo estevam/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1727412384 24229843 8c238fb190e8742026a53415c2e7246d ""
   "C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
   "C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993062126 3152 4850ff0163852b7fab34bd55e1197f28 ""
@@ -173,17 +173,21 @@
   "C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
   "C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
-  "Logos/caso_de_uso_1.jpg" 1727378435 48638 c220a73930662b6564297bc0924635fe ""
-  "Logos/diagrama_objetos.png" 1727378435 7415 4d1e7a7efd0c5673c163d64716af18ff ""
-  "Logos/diagramaclasse.png" 1727378435 99252 2a4f7d20135db955f4b7d4812d8f67b1 ""
-  "c:/Users/ricardo estevam/Desktop/class-09-latex/f299-template-pi-artifacts/fatec-template.tex" 1727378435 2523 788199aef27ae64c2040e7558017a614 ""
+  "Logos/BDC.jpeg" 1731506664 66178 93296dd1e74a6bc8bb5669c7e0bbff76 ""
+  "Logos/Canva.jpg" 1730745282 4772227 dbb66f9a5375a591346b3ba3989a24ed ""
+  "Logos/Caso_uso_solo - Copia.jpg" 1731417732 65401 7b062819e1929e3cdd07fbe1402abfc7 ""
+  "Logos/Diagrama_redes.jpg" 1730728394 63715 e29016382291bd8e96ed38e4ca2a96fb ""
+  "Logos/loog_book1.png" 1731878527 155250 af8e861d72ba2c12d579c4a15aac5eea ""
+  "Logos/loog_book2.png" 1731879832 39879 6344ce91f53186404d929297cebacd36 ""
+  "Logos/mod_logic1.png" 1731878160 47748 dde8eee3ecefb704f4857acce9c98fdf ""
+  "c:/Users/ricardo estevam/Documents/estudos/Pi_article1/f299-template-pi-artifacts/fatec-template.tex" 1731882343 6552 071be3ae748133de571ec54d2b42b07e ""
   "fatec-article.sty" 1727378435 40662 bf9c8d6e851cda1aa131bd67402f9dad ""
-  "fatec-template.aux" 1727412690 2264 2d383aa4709ed30d12d0c026fa21a8ad "pdflatex"
-  "fatec-template.bbl" 1727412680 0 d41d8cd98f00b204e9800998ecf8427e "biber fatec-template"
-  "fatec-template.out" 1727412690 666 5e2f27ce56be21f36f6d6cf9e544c0b2 "pdflatex"
-  "fatec-template.run.xml" 1727412690 2498 88a9bc5051969d4ca74d7f7df9283edf "pdflatex"
-  "fatec-template.tex" 1727378435 2523 788199aef27ae64c2040e7558017a614 ""
-  "fatec-template.toc" 1727412690 396 ae7c67ebfec545422d516619a2f267ae "pdflatex"
+  "fatec-template.aux" 1731882354 3547 45b0fb4086cd5ce3a28c1df62d327d32 "pdflatex"
+  "fatec-template.bbl" 1731877620 0 d41d8cd98f00b204e9800998ecf8427e "biber fatec-template"
+  "fatec-template.out" 1731882354 999 6588f6a1aabc6955c50e9fbebc846e65 "pdflatex"
+  "fatec-template.run.xml" 1731882354 2498 88a9bc5051969d4ca74d7f7df9283edf "pdflatex"
+  "fatec-template.tex" 1731882343 6552 071be3ae748133de571ec54d2b42b07e ""
+  "fatec-template.toc" 1731882354 527 0c07a066c08bc703820379795a2f4405 "pdflatex"
   (generated)
   "fatec-template.aux"
   "fatec-template.bcf"

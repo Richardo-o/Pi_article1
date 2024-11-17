@@ -1,6 +1,6 @@
-PWD c:\Users\ricardo estevam\Desktop\class-09-latex\f299-template-pi-artifacts
+PWD c:\Users\ricardo estevam\Documents\estudos\Pi_article1\f299-template-pi-artifacts
 INPUT C:\Users\ricardo estevam\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\ricardo estevam\Desktop\class-09-latex\f299-template-pi-artifacts\fatec-template.tex
+INPUT c:\Users\ricardo estevam\Documents\estudos\Pi_article1\f299-template-pi-artifacts\fatec-template.tex
 OUTPUT fatec-template.log
 INPUT C:\Users\ricardo estevam\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\ricardo estevam\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -399,27 +399,55 @@ INPUT C:\Users\ricardo estevam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\ne
 INPUT C:\Users\ricardo estevam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxexa.tfm
 OUTPUT fatec-template.toc
 INPUT C:\Users\ricardo estevam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmssbx10.tfm
-INPUT .\Logos\caso_de_uso_1.jpg
-INPUT .\Logos\caso_de_uso_1.jpg
-INPUT .\Logos\caso_de_uso_1.jpg
-INPUT .\Logos\caso_de_uso_1.jpg
-INPUT .\Logos\caso_de_uso_1.jpg
-INPUT .\Logos\caso_de_uso_1.jpg
-INPUT .\Logos\caso_de_uso_1.jpg
-INPUT .\Logos\diagramaclasse.png
-INPUT .\Logos\diagramaclasse.png
-INPUT .\Logos\diagramaclasse.png
-INPUT .\Logos\diagramaclasse.png
-INPUT .\Logos\diagramaclasse.png
-INPUT .\Logos\diagramaclasse.png
-INPUT .\Logos\diagramaclasse.png
-INPUT .\Logos\diagrama_objetos.png
-INPUT .\Logos\diagrama_objetos.png
-INPUT .\Logos\diagrama_objetos.png
-INPUT .\Logos\diagrama_objetos.png
-INPUT .\Logos\diagrama_objetos.png
-INPUT .\Logos\diagrama_objetos.png
-INPUT .\Logos\diagrama_objetos.png
+INPUT .\Logos\Caso_uso_solo - Copia.jpg
+INPUT .\Logos\Caso_uso_solo - Copia.jpg
+INPUT .\Logos\Caso_uso_solo - Copia.jpg
+INPUT .\Logos\Caso_uso_solo - Copia.jpg
+INPUT .\Logos\Caso_uso_solo - Copia.jpg
+INPUT .\Logos\Caso_uso_solo - Copia.jpg
+INPUT .\Logos\Caso_uso_solo - Copia.jpg
+INPUT .\Logos\Diagrama_redes.jpg
+INPUT .\Logos\Diagrama_redes.jpg
+INPUT .\Logos\Diagrama_redes.jpg
+INPUT .\Logos\Diagrama_redes.jpg
+INPUT .\Logos\Diagrama_redes.jpg
+INPUT .\Logos\Diagrama_redes.jpg
+INPUT .\Logos\Diagrama_redes.jpg
+INPUT .\Logos\Canva.jpg
+INPUT .\Logos\Canva.jpg
+INPUT .\Logos\Canva.jpg
+INPUT .\Logos\Canva.jpg
+INPUT .\Logos\Canva.jpg
+INPUT .\Logos\Canva.jpg
+INPUT .\Logos\Canva.jpg
+INPUT .\Logos\BDC.jpeg
+INPUT .\Logos\BDC.jpeg
+INPUT .\Logos\BDC.jpeg
+INPUT .\Logos\BDC.jpeg
+INPUT .\Logos\BDC.jpeg
+INPUT .\Logos\BDC.jpeg
+INPUT .\Logos\BDC.jpeg
+INPUT .\Logos\mod_logic1.png
+INPUT .\Logos\mod_logic1.png
+INPUT .\Logos\mod_logic1.png
+INPUT .\Logos\mod_logic1.png
+INPUT .\Logos\mod_logic1.png
+INPUT .\Logos\mod_logic1.png
+INPUT .\Logos\mod_logic1.png
+INPUT .\Logos\loog_book1.png
+INPUT .\Logos\loog_book1.png
+INPUT .\Logos\loog_book1.png
+INPUT .\Logos\loog_book1.png
+INPUT .\Logos\loog_book1.png
+INPUT .\Logos\loog_book1.png
+INPUT .\Logos\loog_book1.png
+INPUT .\Logos\loog_book2.png
+INPUT .\Logos\loog_book2.png
+INPUT .\Logos\loog_book2.png
+INPUT .\Logos\loog_book2.png
+INPUT .\Logos\loog_book2.png
+INPUT .\Logos\loog_book2.png
+INPUT .\Logos\loog_book2.png
 INPUT fatec-template.aux
 INPUT .\fatec-template.out
 INPUT .\fatec-template.out
