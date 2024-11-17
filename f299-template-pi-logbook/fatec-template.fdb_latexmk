@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber fatec-template"] 1731871865.58589 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1731872813.57194 0
-  "fatec-template.bcf" 1731872813 112227 64486a44974414ece6e44eae6e500a1e "pdflatex"
+["biber fatec-template"] 1731871865.58589 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1731873401.67724 0
+  "fatec-template.bcf" 1731873401 112227 64486a44974414ece6e44eae6e500a1e "pdflatex"
   (generated)
   "fatec-template.bbl"
   "fatec-template.blg"
   (rewritten before read)
-["pdflatex"] 1731872808.86932 "c:/Users/ricardo estevam/Documents/estudos/Pi_article1/f299-template-pi-logbook/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1731872813.5732 0
+["pdflatex"] 1731873396.89701 "c:/Users/ricardo estevam/Documents/estudos/Pi_article1/f299-template-pi-logbook/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1731873401.67848 0
   "C:/Users/ricardo estevam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731680502 122199 f0a029dcadf437d1491ad2875c164ac4 ""
   "C:/Users/ricardo estevam/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1727412384 24229843 8c238fb190e8742026a53415c2e7246d ""
   "C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -177,13 +177,13 @@
   "C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/tex/latex/xstring/xstring.sty" 1693735632 123 a302f2c651a95033260db60e51527ae8 ""
   "C:/Users/ricardo estevam/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
   "Logos/fatec.jpg" 1727378435 52462 b72184f489d14cab2f4098401c2496e6 ""
-  "c:/Users/ricardo estevam/Documents/estudos/Pi_article1/f299-template-pi-logbook/fatec-template.tex" 1731872808 7297 1a0a45017c94075a83dac721a3ddcea0 ""
+  "c:/Users/ricardo estevam/Documents/estudos/Pi_article1/f299-template-pi-logbook/fatec-template.tex" 1731873394 7640 a233dfd7df78d450a563163064ee4138 ""
   "fatec-article.sty" 1727378435 29575 1de411d4e15c8dc78b57306f2b334c64 ""
-  "fatec-template.aux" 1731872812 467 1e12617aadf1aa925da89754c23de25c "pdflatex"
+  "fatec-template.aux" 1731873401 467 1e12617aadf1aa925da89754c23de25c "pdflatex"
   "fatec-template.bbl" 1731871873 0 d41d8cd98f00b204e9800998ecf8427e "biber fatec-template"
-  "fatec-template.out" 1731872813 133 782cab8c308fc766984b2f71c6b0542b "pdflatex"
-  "fatec-template.run.xml" 1731872813 2533 ddd91e20767af94d459033942f5b644d "pdflatex"
-  "fatec-template.tex" 1731872808 7297 1a0a45017c94075a83dac721a3ddcea0 ""
+  "fatec-template.out" 1731873401 133 782cab8c308fc766984b2f71c6b0542b "pdflatex"
+  "fatec-template.run.xml" 1731873401 2533 ddd91e20767af94d459033942f5b644d "pdflatex"
+  "fatec-template.tex" 1731873394 7640 a233dfd7df78d450a563163064ee4138 ""
   (generated)
   "fatec-template.aux"
   "fatec-template.bcf"
